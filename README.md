@@ -4,7 +4,7 @@ Este é um projeto focado no estudo de Domain Domain-Driven Design (DDD), Clean 
 
 ## Descrição
 
-NerdStore é uma aplicação de e-commerce que demonstra os conceitos e práticas abordados no curso. O projeto foi desenvolvido utilizando .NET e segue os melhores padrões e práticas de arquitetura de software.
+NerdStore é uma aplicação de e-commerce que coloca em pratica os conceitos e práticas. O projeto foi desenvolvido utilizando .NET e segue os melhores padrões e práticas de arquitetura de software.
 
 ## Funcionalidades
 
